@@ -1,8 +1,8 @@
-# ThemeIntegralDt Theme
+# Integral DT Theme
 
 ![](assets/theme-integral-dt-screenshots.jpg)
 
-**ThemeIntegralDt** is the new default theme for [Grav CMS](http://github.com/getgrav/grav).  This theme is built with the [Spectre.css](https://picturepan2.github.io/spectre/) framework and provides a powerful base for developing your own themes. ThemeIntegralDt uses functionality that is only available in Grav 1.4+, as such you cannot run ThemeIntegralDt on earlier versions of Grav.
+**Integral DT** is the new default theme for [Grav CMS](http://github.com/getgrav/grav).  This theme is built with the [Spectre.css](https://picturepan2.github.io/spectre/) framework and provides a powerful base for developing your own themes. ThemeIntegralDt uses functionality that is only available in Grav 1.4+, as such you cannot run ThemeIntegralDt on earlier versions of Grav.
 
 ## Features
 
